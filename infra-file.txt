@@ -1,3 +1,4 @@
 vm values
 vm size
 vim folder
+vm count
